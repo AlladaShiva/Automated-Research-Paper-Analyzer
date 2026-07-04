@@ -8,8 +8,8 @@ Upload any research paper as a PDF and get instant AI-generated summaries, keywo
 
 ## 👥 Authors
 
-- **A. Shiva** (22BCE9069)
-- **K. Siddharth** (22BCE7499)
+- **A. Shiva**
+- **K. Siddharth** 
 
 **Guide:** Dr. Kumar Debasis, Associate Professor Grade-1, Department of Networking and Security
 **School:** School of Computer Science and Engineering, VIT-AP University
