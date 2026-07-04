@@ -88,16 +88,5 @@ Automated-Research-Paper-Analyzer/
 | Domain Classification | 87–94% accuracy across domains |
 | RAG Q&A (Gemini) | Correctness: 4.8/5, Context Grounding: 4.6/5, Fluency: 4.9/5 |
 
-*(Full evaluation methodology and results available in the project report.)*
 
-## 🔮 Future Enhancements
 
-- OCR support for scanned/handwritten PDFs (Tesseract / Google Vision)
-- Transformer-based domain classifiers (SciBERT, PubMedBERT)
-- Multi-paper comparison engine
-- Plagiarism detection & citation network visualization
-- Exportable reports (PDF/DOCX/LaTeX)
-
-## 📄 License
-
-This project was developed as an academic Senior Design Project at VIT-AP University. Feel free to reference or build upon it for educational purposes.
