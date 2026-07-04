@@ -77,45 +77,6 @@ Automated-Research-Paper-Analyzer/
 
 > **Note:** The `models/` folder (trained classifier artifacts) and `venv/` are excluded from version control via `.gitignore`. You'll need to regenerate or add your own trained models to run domain classification.
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.10+
-- A Google Gemini API key (for the chat/RAG feature)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/AlladaShiva/Automated-Research-Paper-Analyzer.git
-   cd Automated-Research-Paper-Analyzer
-   ```
-
-2. **Create and activate a virtual environment**
-   ```bash
-   python -m venv venv
-   # Windows
-   .\venv\Scripts\Activate.ps1
-   # macOS/Linux
-   source venv/bin/activate
-   ```
-
-3. **Install dependencies**
-   ```bash
-   pip install streamlit pandas matplotlib wordcloud plotly sentence-transformers chromadb google-generativeai pymupdf nltk spacy rake-nltk textstat yake joblib scikit-learn torch transformers requests
-   ```
-
-4. **Add your Gemini API key**
-   Create a file at `.streamlit/secrets.toml`:
-   ```toml
-   [gemini]
-   api_key = "YOUR_GEMINI_API_KEY"
-   ```
-
-5. **Run the app**
-   ```bash
-   streamlit run app.py
-   ```
 
 ## 📊 Results Snapshot
 
